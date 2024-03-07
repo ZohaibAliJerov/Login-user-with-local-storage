@@ -1,0 +1,33 @@
+.bg-image {
+    background-image: url('assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+}
+
+.regForm {
+    width: 350px;
+    height: 50vh;
+    border-radius: 15px;
+    background-color: #6b5f3130;
+    backdrop-filter: blur(2px);
+}
+
+.dataTable {
+    width: 55rem;
+    background-color: #6b5f3130;
+    backdrop-filter: blur(2px);
+    /* height: 60vh; */
+}
+
+.btn {
+    margin-left: 1rem;
+    width: 6rem;
+}
+
+.btnAdd {
+    /* margin-left: 1rem; */
+    width: 6rem;
+    margin-left: 19.5rem;
+}
